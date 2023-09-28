@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![zippy-junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=zippy-junior&show_icons=true&theme=radical)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippy-junior&repo=gnodes-core)](https://github.com/zippy-junior/gnodes-core)
 
